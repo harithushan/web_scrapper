@@ -5,4 +5,8 @@ To install the requirements run this command
 ```
 pip install -r requirements.txt
 ```
+To access the home webpage use this heroku deployment link
+```
+https://webreviewscrapper.herokuapp.com/
+```
 
