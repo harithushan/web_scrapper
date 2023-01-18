@@ -10,7 +10,7 @@ To access the home webpage use this heroku deployment link
 https://webreviewscrapper.herokuapp.com/
 ```
 To access the home webpage use this Azure deployment link
-````
+```
 https://productreviewscrapper.azurewebsites.net/
-````
+```
 
